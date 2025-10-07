@@ -153,6 +153,8 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos" : [-3810, -2150, 64], "title" : "Tango's raid farm", "icon" : "tango.png" },
 
 				{ "pos" : [-240, -320, 64], "title" : "Log Land (Xisuma)", "icon" : "xisuma.png" },
+
+				{ "pos": [-240, -5360, 64], "title": "Doc's bonemeal farm", "icon": "doc.png"},
 			],
 		},
 	},
